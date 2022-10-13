@@ -1,0 +1,56 @@
+#main {
+    background-color: #eee;
+    color: #3a3a3a;
+    font-family: 'Ubuntu', sans-serif;;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h3 {
+  font-weight: bolder;
+}
+
+#img-div{
+  background-color: #ffffff;
+  padding: 10px;
+  margin: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;  
+  }
+  
+#image {
+    max-width: 100%;
+    height: auto;
+  }
+
+#list-container {
+  text-align: center;
+}
+
+#list {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#footnote-container {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#footnote {
+  font-style: italic;
+  text-align: left;
+}
